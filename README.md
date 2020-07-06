@@ -26,7 +26,7 @@ For users using R version 3.3.x to 3.6.x, the following steps could be followed 
 	- Close R
 	- Create a .Rprofile under the directory HOME
 	- Put the following code into .Rprofile, save and exit:  
-  `Sys.setenv(PATH = paste0("C:\Rtools\bin", "C:\Rtools\mingw_64\bin", Sys.getenv("PATH"), sep = ";"))`
+  `Sys.setenv(PATH = paste0("C:\\Rtools\\bin;C:\\Rtools\\mingw_64\\bin;", Sys.getenv("PATH")))`
 	-  Restart R
 	-  Run `Sys.getenv("PATH")` to confirm the following directory is in the `%PATH%` variable: `‘C:\\Rtools\\bin\\;C:\\Rtools\\mingw_64\\bin\\;’`
 - Install RxODE: `install.packages(“RxODE”)`
