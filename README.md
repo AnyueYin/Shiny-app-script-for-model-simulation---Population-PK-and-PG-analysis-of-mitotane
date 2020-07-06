@@ -22,7 +22,7 @@ For users using R version 3.3.x to 3.6.x, the following steps could be followed 
 - Download Rtools from https://cran.r-project.org/bin/windows/Rtools/history.html.
 -  Install Rtools to the default installation directory (C:\Rtools)
 -  Set the environmental variables:
-  - Run `Sys.getenv("HOME")` in R
+	- Run `Sys.getenv("HOME")` in R
 	- Close R
 	- Create a .Rprofile under the directory HOME
 	- Put the following code into .Rprofile, save and exit:  
