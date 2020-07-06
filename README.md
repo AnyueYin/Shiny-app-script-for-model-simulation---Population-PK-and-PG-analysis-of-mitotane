@@ -2,7 +2,7 @@
 Created by Anyue Yin from the Department of Clinical Pharmacy and Toxicology, Leiden University Medical Center, Leiden, the Netherlands.
 
 #### Related paper:
-Anyue Yin, Madeleine H.T. Ettaieb, et al. Population pharmacokinetic and pharmacogenetic analysis of mitotane in patients with adrenocortical carcinoma: towards individualized dosing, 2020. *submitted*
+Anyue Yin, Madeleine H.T. Ettaieb, et al. Population pharmacokinetic and pharmacogenetic analysis of mitotane in patients with adrenocortical carcinoma: towards individualized dosing. *Clin Pharmacokinet.*  2020. doi:10.1007/s40262-020-00913-y
 
 #### Software: 
 R statistics software (version 3.4.2; R Foundation for Statistical Computing, Vienna, Austria) 
